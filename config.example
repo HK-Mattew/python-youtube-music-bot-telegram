@@ -1,0 +1,19 @@
+
+
+
+class Config():
+    BOT_TOKEN = ''
+    BOT_DEV_TOKEN = ''
+    DOWNLOAD_PATH = './Downloads'
+    OWNERS_ID = [
+        711749392
+    ]#tg user id
+    BOT_DEV = False
+
+    #Database
+    MONGODB_URI = ''
+    MONGODB_DB_NAME = ''
+    TELEGRAM_CHANNEL_MEDIA_DB = ''
+
+
+

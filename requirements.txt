@@ -1,0 +1,9 @@
+python-telegram-bot==13.7
+youtube-search-python
+youtube-dl
+bs4
+lxml
+pymongo
+splitty
+git+https://github.com/mps-youtube/pafy.git
+#sudo apt-get install ffmpeg
